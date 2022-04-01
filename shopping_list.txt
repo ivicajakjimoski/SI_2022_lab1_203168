@@ -1,5 +1,5 @@
-Pizza
-Wine 
-Cheese
-Cake
-Oranges
+Pizza x 4
+Wine x 3
+Cheese x 1
+Cake x 2 
+Oranges x 6
